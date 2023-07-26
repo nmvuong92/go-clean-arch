@@ -8,10 +8,9 @@
   },
   "database": {
       "host": "localhost",
-      "port": "3306",
+      "port": "3307",
       "user": "user",
       "pass": "password",
       "name": "article"
   }
-
 }
